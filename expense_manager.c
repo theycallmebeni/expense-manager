@@ -1,4 +1,4 @@
-//done bt behnam zarei 
+//done by behnam zarei 
 //ELECTRICAL ENGINEERING AT IUT
 #include <stdio.h>
 #include <stdlib.h>
@@ -202,5 +202,6 @@ while(1){
 
 
     return 0 ;
+
 
 }
